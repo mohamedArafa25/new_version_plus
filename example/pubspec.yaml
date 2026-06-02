@@ -38,7 +38,7 @@ dependencies:
   new_version_plus:
     path: ../../new_version_plus
   
-  flutter_html: ^3.0.0-beta.2
+  flutter_html: ^3.0.0
 
 dev_dependencies:
   flutter_test:
